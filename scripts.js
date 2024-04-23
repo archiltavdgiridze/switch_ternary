@@ -80,3 +80,6 @@ function updateSize() {
     ? (document.getElementById("showSize").innerHTML = "XXL")
     : (document.getElementById("showSize").innerHTML = "თქვენი ზომა არ ვიცით");
 }
+
+
+// example code 
